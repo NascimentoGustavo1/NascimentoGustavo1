@@ -6,23 +6,23 @@
 ![Perfil](https://img.shields.io/badge/Perfil-Ativo-red)
 ![Status](https://img.shields.io/badge/Status-Estudante-red)
 
-🎓 Estudante de Engenharia de Software 
-📍 Brasil  
+ ## Estudante de Engenharia de Software 
+ ## Brasil  
 
----
+<hr style="border: 1px solid red;">
 
-## 🚀 Sobre mim
+##  Sobre mim
 Estou Cursando Engenharia de Sooftware, pela Unifil, busco aprimorar meus conhecimentos para que no futuro posso usa-los da melhor forma.
 
----
+<hr style="border: 1px solid red;">
 
 ## 🛠️ Habilidades
 -Inglês Intermediário
 -Experiência com TI e programação
----
+<hr style="border: 1px solid red;">
 
 
----
+<hr style="border: 1px solid red;">
 
 ## 📫 Contato
 - Email: nascimentogustavo7491@gmail.com
