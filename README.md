@@ -1,4 +1,7 @@
-#  Olá, meu nome é Gustavo
+<h1 style="color:red;">👋 Olá, eu sou Seu Nome</h1>
+
+![Perfil](https://img.shields.io/badge/Perfil-Ativo-red)
+![Status](https://img.shields.io/badge/Status-Estudante-red)
 
 🎓 Estudante de Engenharia de Software 
 📍 Brasil  
