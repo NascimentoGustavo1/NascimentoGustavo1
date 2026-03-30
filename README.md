@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Meu%20Perfil&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Meu%20Perfil&fontColor=ffffff&animation=wave)
 
 # 👋 Olá, meu nome é Gustavo
 
@@ -20,7 +20,8 @@ Estou cursando Engenharia de Software pela Unifil e busco aprimorar meus conheci
 ## 🛠️ Habilidades
 
 * Inglês intermediário  
-* Experiência com TI e programação
+* Experiência com TI e programação  
+* Conhecimento em **C** (linguagem de programação)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=3"/>
 
