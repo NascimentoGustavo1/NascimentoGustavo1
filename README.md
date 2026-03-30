@@ -13,6 +13,10 @@
 
 ## 🔴 Sobre mim
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=3"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2"/>
+
 Estou cursando Engenharia de Software pela Unifil e busco aprimorar meus conhecimentos para aplicá-los da melhor forma no futuro, construindo uma carreira sólida na área de tecnologia.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=6"/>
