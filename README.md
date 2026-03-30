@@ -11,6 +11,10 @@
 
 <hr style="border: 1px solid red;">
 
+![linha](https://img.shields.io/badge/-──────────-red)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2"/>
+
 ##  Sobre mim
 Estou Cursando Engenharia de Sooftware, pela Unifil, busco aprimorar meus conhecimentos para que no futuro posso usa-los da melhor forma.
 
@@ -19,8 +23,6 @@ Estou Cursando Engenharia de Sooftware, pela Unifil, busco aprimorar meus conhec
 ## 🛠️ Habilidades
 -Inglês Intermediário
 -Experiência com TI e programação
-<hr style="border: 1px solid red;">
-
 
 <hr style="border: 1px solid red;">
 
