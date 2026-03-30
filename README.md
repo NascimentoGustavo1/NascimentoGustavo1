@@ -1,4 +1,7 @@
-<h1 style="color:red;">👋 Olá, eu sou Seu Nome</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Meu%20Perfil&fontColor=ffffff)
+
+
+<h1 style="color:red;"> Olá, MEu nome é Gustavo</h1>
 
 ![Perfil](https://img.shields.io/badge/Perfil-Ativo-red)
 ![Status](https://img.shields.io/badge/Status-Estudante-red)
