@@ -1,16 +1,22 @@
-## Hi there 👋
+#  Olá, meu nome é Gustavo
 
-<!--
-**NascimentoGustavo1/NascimentoGustavo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software 
+📍 Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Estou Cursando Engenharia de Sooftware, pela Unifil, busco aprimorar meus conhecimentos para que no futuro posso usa-los da melhor forma.
+
+---
+
+## 🛠️ Habilidades
+-Inglês Intermediário
+-Experiência com TI e programação
+---
+
+
+---
+
+## 📫 Contato
+- Email: nascimentogustavo7491@gmail.com
