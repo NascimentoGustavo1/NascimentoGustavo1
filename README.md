@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=Meu%20Perfil&fontColor=ffffff&animation=wave)
+![Header](https://capsule-render.vercel.app/api?type=fade&color=ff0000&height=200&section=header&text=Meu%20Perfil&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Olá, meu nome é Gustavo
 
