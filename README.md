@@ -9,22 +9,18 @@
  ## Estudante de Engenharia de Software 
  ## Brasil  
 
-<hr style="border: 1px solid red;">
-
-![linha](https://img.shields.io/badge/-──────────-red)
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2"/>
 
 ##  Sobre mim
 Estou Cursando Engenharia de Sooftware, pela Unifil, busco aprimorar meus conhecimentos para que no futuro posso usa-los da melhor forma.
 
-<hr style="border: 1px solid red;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2"/>
 
 ## 🛠️ Habilidades
 -Inglês Intermediário
 -Experiência com TI e programação
 
-<hr style="border: 1px solid red;">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2"/>
 
 ## 📫 Contato
 - Email: nascimentogustavo7491@gmail.com
